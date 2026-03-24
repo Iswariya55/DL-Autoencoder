@@ -97,8 +97,8 @@ summary(model, input_size=(1, 28, 28))
 # Train the autoencoder
 def train(model, loader, criterion, optimizer, epochs=5):
   model.train()
-  print("Name:DHAN VARSHINI J P")
-  print("Register Number:212224230055")
+  print("Name:ISHWARYA R")
+  print("Register Number:212224220039")
   for epoch in range(epochs):
     running_loss = 0.0 
     for images, _ in loader:
